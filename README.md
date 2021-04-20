@@ -1,6 +1,6 @@
 # AOML_Project
 
-AoML  Tasks -10%
+AoML  Tasks -30%
 
 ----CSV---
 
